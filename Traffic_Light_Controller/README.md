@@ -9,8 +9,8 @@ This repository contains my collection of Digital Design and Verilog HDL project
 ```
 VLSI/
 ├── Traffic_Light_Controller/
-├── Timer/
-├── Counter/
+├── ALU_8-Bits/
+├── Sequence_Detector_Verilog/
 ├── Flip_Flops/
 ├── FSM/
 └── ...
